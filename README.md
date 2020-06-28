@@ -1,2 +1,2 @@
-# android_sample_imge_utils
+# android_sample_image_utils
 android sample of image utils
